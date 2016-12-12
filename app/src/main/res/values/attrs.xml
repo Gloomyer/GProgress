@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="selectedColor" format="color" />
+    <attr name="unSelectedColor" format="color" />
+    <attr name="imgSize" format="dimension" />
+    <attr name="thickness" format="dimension" />
+    <attr name="itemCount" format="integer" />
+    <attr name="bgImg" format="reference" />
+
+    <declare-styleable name="GProgress">
+        <attr name="selectedColor" />
+        <attr name="unSelectedColor" />
+        <attr name="thickness" />
+        <attr name="imgSize" />
+        <attr name="itemCount" />
+        <attr name="bgImg" />
+    </declare-styleable>
+</resources>
